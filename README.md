@@ -1,2 +1,2 @@
 # PowerBI-Dashboard
-## LINK - https://jaghant-powerbi-dashboard-streamlit-main-c6kf1m.streamlit.app/
+## LINK - https://jaghant-power-bi-main-e9vb04.streamlit.app/
